@@ -1,0 +1,80 @@
+<table>
+                     
+                     <tr style="background-color:#33e6ff;">
+                       <th>TIME</th>
+                       <th>8:00AM-8:45AM</th>
+                       <th>8:45AM-9:30AM</th>
+                       <th rowspan="6">9:30AM-9:45AM SHORT BREAK</th>
+                       <th>9:45AM-10:30AM</th>
+                       <th>10:30AM-11:15AM</th>
+                       <th rowspan="6">11:15AM-11:40AM LONG BREAK</th>
+                       <th>11:40AM-12:25PM</th>
+                       <th>12:25AM-1:10AM</th>
+                       <th rowspan="6">1:10PM-2:00PM LUNCH</th>
+                       <th>2:00PM-2:45PM</th>
+                       <th>2:45PM-3:30PM</th>
+                       <th>3:30PM-4:15PM</th>
+                       <th rowspan="6">4:15PM-5:00PM GAMES</th>
+                     </tr>
+                    
+                     <tr>
+                       <td>January</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                     </tr>
+                      <tr>
+                       <td>January</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                     </tr>
+                      <tr>
+                       <td>January</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                     </tr>
+                   <tr>
+                       <td>January</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>  
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                     </tr>
+                     <tr>
+                       <td>February</td>
+                       <td>$80</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                       <td>$100</td>
+                     </tr>
+                   </table>
